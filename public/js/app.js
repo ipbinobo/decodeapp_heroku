@@ -5,7 +5,7 @@
       this.car = [
         {
           "id": 1,
-          "name": "FORD RANGER 4x4",
+          "name": " FORD RANGER 4x4",
           "description": "Name: FORD RANGER 4x4,Body Type:Pick-Up, Tranamission Type:Manual, Model Year: 2017, Fuel: Diesel, Price: ₱ 1,199,000",
           "image": "img/5.jpg",
         
@@ -25,7 +25,7 @@
         },
         {
           "id": 4,
-          "name": "Ford Everest AmbienteT",
+          "name": " Ford Everest AmbienteT",
           "description": "Name; Ford Everest AmbienteT, Body Type:SUV, Tranamission Type: Manual, Model Year: 2015, Fuel: Diesel, Price: ₱ 1,339,000",
           "image": "img/13.jpg",
          
@@ -39,28 +39,28 @@
         {
 
           "id": 6,
-          "name": " Nissan Navara",
+          "name": "Nissan Navara",
           "description": "Name: Nissan Navara, Body Type:Pick-Up, Tranamission Type: Manual, Model Year: 2015, Fuel: Diesel, Price: ₱ 941,000",
           "image": "img/8.jpg",
         },
         {
 
           "id": 7,
-          "name": "FOTON Thunder 4x4",
+          "name": " FOTON Thunder 4x4",
           "description": "Name: FOTON Thunder 4x4 2016, Body Type:Pick-Up, Tranamission Type: Manual, Model Year: 2014, Fuel: Diesel, Price: ₱ 1,118,000",
           "image": "img/15.jpg",
         },
          {
 
           "id": 8,
-          "name": "Honda Civic 1.5 RS",
+          "name": "Honda Civic",
           "description": "Name: Honda Civic 1.5 RS Turbo Modulo Sport 2016, Body Type:Sedan, Tranamission Type: CVT, Model Year: 2014, Fuel: Gasoline, Price: ₱ 1,515,000",
           "image": "img/16.jpg",
         },
          {
 
           "id": 9,
-          "name": "Chevrolet Cruze ",
+          "name": "Chevrolet Cruze",
           "description": "Name: Chevrolet Cruze 1.8 LT AT Body Type:Sedan, Tranamission Type: Automatic, Model Year: 2014, Fuel: Gasoline, Price: ₱ 1,103,888",
           "image": "img/17.jpg",
         },
@@ -105,7 +105,7 @@
     }
 
     carDesign(){
-      let id = document.getElementById('kill',red);
+      let id = document.getElementById('kill');
       let name = document.getElementById('kill2');
       let description = document.getElementById('kill3');
       let image = document.getElementById('kill4');
