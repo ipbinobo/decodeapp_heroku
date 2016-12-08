@@ -6,93 +6,87 @@
         {
           "id": 1,
           "name": " FORD RANGER 4x4",
-          "description": "Name: FORD RANGER 4x4,Body Type:Pick-Up, Tranamission Type:Manual, Model Year: 2017, Fuel: Diesel, Price: ₱ 1,199,000",
+          "description": "<br>Name: FORD RANGER 4x4</br><br>Body Type:Pick-Up</br><br>Transmission Type:Manual</br><br>Model Year: 2017</br><br>Fuel: Diesel</br><br>Price: ₱ 1,199,000</br>",
           "image": "img/5.jpg",
         
         },
         {
           "id": 2,
           "name": "TOYOTA HILUX 4x4",
-          "description": "Name: TOYOTA HILUX 4x4, Body Type:Pick-Up, Tranamission Type: Manual, Model Year: 2015,Fuel: Diesel, Price:₱ 1,555,000",
+          "description":"<br>Name: TOYOTA HILUX 4x4</br> <br>Body Type:Pick-Up</br> <br>Transmission Type: Manual</br> <br>Model Year: 2015</br> <br>Fuel: Diesel</br> <br>Price:₱ 1,555,000</br>",
           "image": "img/6.jpg",
          
         },
         {
           "id": 3,
           "name": "Mitsubishi Strada 4x4",
-          "description": "Name: Mitsubishi Strada 4x4, Body Type:Pick-Up, Tranamission Type: Manual, Model Year: 2017, Fuel: Diesel, Price:₱ 1,500,000",
+          "description": "<br>Name: Mitsubishi Strada 4x4</br> <br>Body Type:Pick-Up</br> <br>Transmission Type: Manual</br> <br>Model Year: 2017</br> <br>Fuel: Diesel</br> <br>Price:₱ 1,500,000</br>",
           "image": "img/10.jpg",
         },
         {
           "id": 4,
           "name": " Ford Everest AmbienteT",
-          "description": "Name; Ford Everest AmbienteT, Body Type:SUV, Tranamission Type: Manual, Model Year: 2015, Fuel: Diesel, Price: ₱ 1,339,000",
+          "description": "<br>Name: Ford Everest AmbienteT 4x4</br><br>Body Type:SUV</br><br>Transmission Type: Manual</br><br>Model Year: 2015</br> <br>Fuel: Diesel</br> </br>Price: ₱ 1,339,000</br>",
           "image": "img/13.jpg",
          
         },
         {
           "id": 5,
           "name": "Toyota Fortuner",
-          "description": "Name: Toyota Fortuner, Body Type:SUV, Tranamission Type: Manual, Model Year: 2016, Fuel: Diesel, Price: ₱ 1,386,000",
+          "description": "<br>Name: Toyota Fortuner</br>, <br>Body Type:SUV</br><br>Transmission Type: Manual</br> <br>Model Year: 2016</br> <br>Fuel: Diesel</br> <br>Price: ₱ 1,386,000</br>",
           "image": "img/14.jpg",
         },
         {
 
           "id": 6,
           "name": "Nissan Navara",
-          "description": "Name: Nissan Navara, Body Type:Pick-Up, Tranamission Type: Manual, Model Year: 2015, Fuel: Diesel, Price: ₱ 941,000",
+          "description": "<br>Name: Nissan Navara</br> <br>Body Type:Pick-Up</br> <br>Transmission Type: Manual</br> <br>Model Year: 2015</br><br>Fuel: Diesel</br><br>Price: ₱ 941,000</br>",
           "image": "img/8.jpg",
         },
         {
 
           "id": 7,
           "name": " FOTON Thunder 4x4",
-          "description": "Name: FOTON Thunder 4x4 2016, Body Type:Pick-Up, Tranamission Type: Manual, Model Year: 2014, Fuel: Diesel, Price: ₱ 1,118,000",
+          "description": "<br>Name: FOTON Thunder 4x4 2016</br> <br>Body Type:Pick-Up</br><br>TransmissionType: Manual</br> <br>Model Year: 2014</br>, <br>Fuel: Diesel</br><br>Price: ₱ 1,118,000</br>",
           "image": "img/15.jpg",
         },
          {
 
           "id": 8,
           "name": "Honda Civic",
-          "description": "Name: Honda Civic 1.5 RS Turbo Modulo Sport 2016, Body Type:Sedan, Tranamission Type: CVT, Model Year: 2014, Fuel: Gasoline, Price: ₱ 1,515,000",
+          "description": "<br>Name: Honda Civic 1.5 RS Turbo Modulo Sport 2016</br> <br>Body Type:Sedan</br> <br>Transmission Type: CVT</br> <br>Model Year: 2014</br> <br>Fuel: Gasoline</br> <br>Price: ₱ 1,515,000</br>",
           "image": "img/16.jpg",
         },
          {
 
           "id": 9,
           "name": "Chevrolet Cruze",
-          "description": "Name: Chevrolet Cruze 1.8 LT AT Body Type:Sedan, Tranamission Type: Automatic, Model Year: 2014, Fuel: Gasoline, Price: ₱ 1,103,888",
+          "description": "<br>Name: Chevrolet Cruze 1.8 LT AT</br> <br>Body Type:Sedan</br> <br>Transmission Type: Automatic</br> <br>Model Year: 2014</br> <br>Fuel: Gasoline</br> <br>Price: ₱ 1,103,888</br>",
           "image": "img/17.jpg",
         },
          {
 
           "id": 10,
           "name": "Hyundai Elantra",
-          "description": "Name: Hyundai Elantra 2.0 GLS AT, Body Type:Sedan, Tranamission Type: Automatic, Model Year: 2016, Fuel: Gasoline, Price: ₱ 1,158,000",
+          "description": "<br>Name: Hyundai Elantra 2.0 GLS AT</br> <br>Body Type:Sedan</br> <br>Transmission Type: Automatic</br> <br>Model Year: 2016</br> <br>Fuel: Gasoline</br> <br>Price: ₱ 1,158,000</br>",
           "image": "img/18.jpg",
         },
         {
 
           "id": 11,
           "name": "Subaru Forester",
-          "description": "Name: Subaru Forester 2.0i-Premium, Body Type:SUV, Tranamission Type: CVT, Model Year: 2016, Fuel: Gasoline, Price:   ₱ 1,648,000",
+          "description": "<br>Name: Subaru Forester 2.0i-Premium</br> <br>Body Type:SUV</br> <br>Transmission Type: CVT</br> <br>Model Year: 2016</br> <br>Fuel: Gasoline</br> <br>Price:₱ 1,648,000</br>",
           "image": "img/19.jpg",
         },
         {
 
           "id": 12,
           "name": "Ford Ranger Wildtrak 3.2L",
-          "description": "Name: Ford Ranger Wildtrak 3.2L 4X4 AT, Body Type:Pick-Up, Tranamission Type: Automatic, Model Year: 2015, Fuel: Gasoline, Price: ₱ 1,709,000",
+          "description": "<br>Name: Ford Ranger Wildtrak 3.2L 4X4 AT </br><br>Body Type:Pick-Up</br> <br>Transmission Type: Automatic</br> <br>Model Year: 2015</br> <br>Fuel: Gasoline</br> <br>Price: ₱ 1,709,000</br>",
           "image": "img/20.jpg",
         },
       ];
-        
-
-
-    
     }
-
-
 
     render(html, component){
 
@@ -157,6 +151,16 @@
       }
       return objects;
     }
+    ListUpdate(key){
+    this.car=(
+      `
+        <h4 class="media-heading">${this.car[id].carRecent}</h4>
+            Time In: <input id="updateTimeIn" type="text" value="${this.car[id].timein}" /><br/>
+        Time Out: <input id="updateTimeOut" type="text" value="${this.car[key].timeout}" /><br/>
+        <button class="btn btn-success" onclick="component.updateItem(${key})">Save</button>
+      `,document.getElementById('carDesign'));
+  }
+
 
 
   }
@@ -172,17 +176,13 @@
        
   <div class="carousel carousel-slider">
       <a class="carousel-item" href="#one!"><img src="img/3.png"></a>
-      <a class="carousel-item" href="#two!"><img src="img/2.jpg"></a>
-      <a class="carousel-item" href="#three!"><img src="img/1.jpg"></a>
+      <a class="carousel-item" href="#two!"><img src="img/24.png"></a>
+      <a class="carousel-item" href="#three!"><img src="img/26.png"></a>
       <a class="carousel-item" href="#four!"><img src="img/4.jpg"></a>
     </div>
-          
-           
-           
-
-     <nav>
-      <div class="nav-wrapper  cyan">
-        <a href="#" onclick="component.carList()" class="brand-logo"> &nbsp&nbsp&nbsp&nbsp 4x4 TRUCKS </a>
+    <nav>
+      <div class="nav-wrapper  cyan accent-2">
+        <a href="#" ="component.carList()" class="brand-logo"> &nbsp&nbsp&nbsp&nbsp4X4</a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li>
         <li><a href="#" onclick="component.Homepage()">HomePage</a></li>
@@ -193,20 +193,20 @@
 
        
       </div>
-      </nav>
+    </nav>
 
 
   </div>
 
 
-           <div id="Homepage"></div>
+          <div id="Homepage"></div>
           <div id="carRecent"></div>
           <div id="viewCar"></div>
           <div id="carList"></div>
           <div id="latestCar"></div>
           
           <div class="video-container">
-            <iframe width="853" height="480" src="https://www.youtube.com/watch?v=TUs5KZ2uMgs" frameborder="0" allowfullscreen></iframe>
+            <iframe width="853" height="480" src="img/High-Performance Off-Road Pick-Up  F-150 Raptor  Ford Performance.mp4" frameborder="0" allowfullscreen></iframe>
            </div>
                     <footer class="page-footer  cyan">
             <div class="container">
@@ -218,7 +218,7 @@
                 </div>
                 <center>
                 <div class="col l4 offset-l2 s12 ">
-                  <h5 class="white-text ">Car App</h5>
+                  <h5 class="red-text ">Car App</h5>
                  
                   <ul>
                     <li><a class="grey-text text-lighten-3" href="https://www.ford.com.ph"onclick="component.Homepage()">Ford</li>
@@ -255,18 +255,10 @@
       this.carRecent();    
     }
 
-   
-
     viewCar(id){
       let r = this.SearchCarById(id);
 
       let html = `
-
-
-   
-
-
-
         <h5 class="center-align">${r.name}</h5>
         <div class="row">       
           <div class="col s12 m12">
@@ -279,7 +271,8 @@
                   <p>${r.description}</p>
                 </div>
               <div class="card-action small">               
-                  <span onclick="component.carDelete(${r.id})" class="new badge small red" data-badge-caption="">Delete Base</span>
+                  <span onclick="component.carDelete(${r.id})" class="new badge small red" data-badge-caption="">Delete Car</span>
+                  <span onclick="component.carRecent(${r.id})" class="new badge small green" data-badge-caption="">Update</span>
                  <span onclick="component.carList()" class="new badge small" data-badge-caption="">Back to List</span>
                 </div>            
               </div>     
@@ -303,12 +296,9 @@
     carList(){
       let html = `
 
-
-
-
         <br/>
           <nav>
-            <div class="nav-wrapper white">
+            <div class="nav-wrapper red">
             <form>
               <div class="input-field">       
                 <input onkeyup="component.carItems(this.value)" id="search" type="search" placeholder="Search" required>
@@ -392,19 +382,6 @@
      carRecent(){
       
       let html = `
-
-      
-        
-    
-         
-       
-
-          
-
-           
-
-       
-
       
                <div class="row">
       `;
@@ -430,6 +407,7 @@
           </div>
         `;
       }
+      
 
       html += `</div>`;
 
@@ -440,9 +418,6 @@
 
     latestCar(){
       let html = `
-
-     
-       
             
          <div class="row">
               <div class="input-field col s6 ">
@@ -468,13 +443,8 @@
               </div>
           <div align="center">
          <button onclick="component.carList()" class="btn waves-effect waves-light">Back</button>
-        
-               <button onclick="component.carDesign()" class="btn waves-effect waves-light">Save</button>
+         <button onclick="component.carDesign()" class="btn waves-effect waves-light">Save</button>
            </div>
-       
-           
-          
-        
 
       `;
 
@@ -488,13 +458,8 @@
       $('#Homepage').hide();    
     }
 
-
-
-
   Homepage(){
     let html=`
-
-
 
     `;
      this.reRender(`
