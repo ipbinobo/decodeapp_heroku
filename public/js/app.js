@@ -285,10 +285,12 @@
       <div class="card-content">
       <p>${r.description}</p>
       </div>
-      <div class="card-action small">               
-      <button onclick="component.carDelete(${r.id})" class="btn waves-effect waves-light">Delete Car</button>
+      <div class="card-action small">   
+
+      <button onclick="component.updateCar(${r.id})" class="btn waves-effect waves-light">Update</button>
+      <button onclick="component.carDelete(${r.id})" class="btn waves-effect waves-light">Delete</button>
       <button onclick="component.carList()" class="btn waves-effect waves-light">Back to List</button>
-      <button onclick="component.updateCar(${r.id})" class="btn waves-effect waves-light">Update Car</button>
+
       </div>            
       </div>     
       </div>   
