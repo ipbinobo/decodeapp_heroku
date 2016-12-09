@@ -486,12 +486,12 @@
 
       <div class="row">
       <div class="input-field col s6">
-      <h5><B>Updated Base:</B></h5>
+      <h5><B>Update to Latest Car:</B></h5>
       <tr>
       <input id="carname" type="text" class="validate" value="${this.car[id].name}"></div>
       <input id="carimg" type="text" class="validate" value="${this.car[id].image}"></div>
       <div class="input-field col s6">
-      <h5><B>Description!</B></h5>
+      <h5><B>Update Description</B></h5>
 
 
       <input id="cardes" type="text" class="validate" value="${this.car[id].description}"></div>
